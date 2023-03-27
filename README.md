@@ -3,7 +3,7 @@
 
 ![HI](https://media.licdn.com/dms/image/D4D16AQEGvZrbzAfMzQ/profile-displaybackgroundimage-shrink_350_1400/0/1677617165933?e=1684972800&v=beta&t=utS0rnCGIlIYZWEJzhVGm9dVS4lU2KgXLJGMsuzYwZU)
 
-<h3 align="center">Este es un desarrollador full stack recién graduado de un programa de formación en programación. Tiene habilidades en lenguajes de programación como HTML, CSS, JavaScript y ha trabajado en proyectos con frameworks como React. Actualmente estoy buscando oportunidades para aplicar sus habilidades y ganar experiencia en el mundo laboral. Soy una persona sociable, que le gusta trabajar en equipo y no encuentro porblemas en integrarme con nuevos grupos de personas. Tambien soy un apacionado en el tema de la computacin por lo que tengo alguno conocimientos basicos de Hardware.</h3>
+<h3 align="center">Desarrollador full stack graduado en 4GeeksAcademy. Habilidades en lenguajes de programación como HTML, CSS, JavaScript y eh trabajado en proyectos con frameworks como React. Actualmente estoy buscando oportunidades para aplicar sus habilidades y ganar experiencia en el mundo laboral. Soy una persona sociable, que le gusta trabajar en equipo y no encuentro porblemas en integrarme con nuevos grupos de personas. Tambien soy un apasionado en el tema de la computacion por lo que tengo conocimientos basicos de Hardware.</h3>
 </br>
 <a><img class="d-flex justify-content-center" align="center" src="https://media.tenor.com/5o4BgQAtHDcAAAAC/pikachu-pokemon.gif" alt="pablo (agustin) abreu" height="300" width="400" /></a>
 </br>
