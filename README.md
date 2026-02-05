@@ -1,22 +1,36 @@
 
 <h1 align="center">Hola 👋, soy Pablo Abreu</h1>
 
-![HI](https://media.licdn.com/dms/image/D4D16AQEGvZrbzAfMzQ/profile-displaybackgroundimage-shrink_350_1400/0/1677617165933?e=1684972800&v=beta&t=utS0rnCGIlIYZWEJzhVGm9dVS4lU2KgXLJGMsuzYwZU)
+<h3 align="center">Desarrollador Full Stack graduado en 4Geeks Academy y estudiante de la Licenciatura en Tecnologías de la Información en la Universidad Tecnológica del Uruguay (UTEC).
 
-<h3 align="center">Desarrollador full stack graduado en 4GeeksAcademy. Habilidades en lenguajes de programación como HTML, CSS, JavaScript y eh trabajado en proyectos con frameworks como React. Actualmente estoy buscando oportunidades para aplicar sus habilidades y ganar experiencia en el mundo laboral. Soy una persona sociable, que le gusta trabajar en equipo y no encuentro porblemas en integrarme con nuevos grupos de personas. Tambien soy un apasionado en el tema de la computacion por lo que tengo conocimientos basicos de Hardware.</h3>
+Cuento con experiencia en desarrollo web utilizando HTML, CSS, JavaScript, React y Python, y he trabajado en proyectos aplicando buenas prácticas de programación, consumo de APIs y diseño de interfaces. Actualmente me encuentro en búsqueda de oportunidades laborales donde pueda aplicar mis conocimientos, ganar experiencia profesional y seguir creciendo dentro del área IT.
+
+Me considero una persona responsable, sociable y orientada al trabajo en equipo, con facilidad para integrarme a nuevos grupos y adaptarme a distintos entornos de trabajo. Además, soy un apasionado por la computación y poseo conocimientos básicos de hardware, lo que complementa mi perfil técnico.</h3>
 </br>
-<a><img class="d-flex justify-content-center" align="center" src="https://media.tenor.com/5o4BgQAtHDcAAAAC/pikachu-pokemon.gif" alt="pablo (agustin) abreu" height="300" width="400" /></a>
+<h3>📍 Montevideo, Uruguay</h3>
 </br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/agusabrru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agusabrru" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pablo (agustin) abreu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo (agustin) abreu" height="30" width="40" /></a>
-<a href="https://instagram.com/pabloabreu04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pabloabreu04" height="30" width="40" /></a>
-</p>
+<h1>🎓 Formación académica</h1>
 </br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h3>Licenciatura en Tecnologías de la Información
+Universidad Tecnológica del Uruguay (UTEC)
+📅 2024 – Presente (3er semestre en curso)
+
+Bootcamp Desarrollador Full Stack
+4Geeks Academy
+📅 2022 – 2023</h3>
 </br>
+<h1>🛠️ Lenguajes y herramientas</h1>
 </br>
+<h3>Frontend: HTML5, CSS3, JavaScript, React, Bootstrap
+
+Backend: Python, Flask
+
+Bases de datos: PostgreSQL
+
+Herramientas: Git, GitHub, Postman</h3>
 </br>
-<a><img class="d-flex justify-content-center" align="center" src="https://media.tenor.com/ujdfjzBjxCUAAAAC/anime-muchas-gracias.gif" alt="pablo (agustin) abreu" height="250" width="1000" /></a>
+<h1>🤝 Conectá conmigo</h1>
+</br>
+<h3>GitHub: https://github.com/PabloAbreu1
+
+LinkedIn: https://linkedin.com/in/pablo-abreu01</h3>
